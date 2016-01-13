@@ -1,0 +1,34 @@
+# =============== #
+# Unity generated #
+# =============== #
+./FPRunner/Temp/
+./FPRunner/Obj/
+./FPRunner/UnityGenerated/
+./FPRunner/Library/
+./FPRunner/Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# =====================================
+./FPRunner/ExportedObj/
+./FPRunner/*.svd
+./FPRunner/*.userprefs
+./FPRunner/*.csproj
+./FPRunner/*.pidb
+./FPRunner/*.suo
+./FPRunner/*.sln
+./FPRunner/*.user
+./FPRunner/*.unityproj
+./FPRunner/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+./FPRunner/.DS_Store
+./FPRunner/.DS_Store?
+./FPRunner/._*
+./FPRunner/.Spotlight-V100
+./FPRunner/.Trashes
+./FPRunner/Icon?
+./FPRunner/ehthumbs.db
+./FPRunner/Thumbs.db
